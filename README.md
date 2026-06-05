@@ -1,16 +1,43 @@
-## Hi there 👋
+## About me
 
-<!--
-**ewancadmore/ewancadmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ewan 👋
 
-Here are some ideas to get you started:
+A Level student based in Cambridge,
+heading to university to study CS. I have a developing 
+interest in cybersecurity, particularly in threat 
+intelligence and AI security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Main language:** C# 
+- **Familiar with:** Linux, basic Python
+- **Concepts:** OOP, data structures, algorithms
+
+## Projects
+
+### FPL Fixer — A Level CS NEA
+A data-driven Fantasy Premier League decision support 
+tool built in C#. 
+
+- Scraped real Premier League stats from FBref using 
+  a Python script (SoccerData library)
+- Weighted scoring model configurable per position
+- Merge sort and bubble sort implementations for ranking
+- Hash table for player search
+- Custom linked list for shortlist management  
+- Dynamic programming for automatic squad building 
+  within budget and positional constraints
+- Handles 400+ real players with input validation 
+  and safe data parsing
+
+`C#` `OOP` `Algorithms` `Data Structures`
+
+## Background
+
+- 🏫 A Levels: Computer Science, Politics, Economics
+- 🏅 Silver Duke of Edinburgh
+- 💼 Work experience at ARM (2024)
+- 🏀 Basketball and football when not at my keyboard
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/ewan-cadmore-7649b2345/)
