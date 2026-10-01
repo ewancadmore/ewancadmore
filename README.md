@@ -1,43 +1,83 @@
-## About me
+# Hi, I'm Ewan
 
-# Hi, I'm Ewan 👋
+I'm a Computer Science student at **Newcastle University** with a growing focus on **cybersecurity, networking and AI**.
 
-A Level student based in Cambridge,
-heading to university to study CS. I have a developing 
-interest in cybersecurity, particularly in threat 
-intelligence and AI security.
+I'm particularly interested in how security works in real-world environments, including threat intelligence, security monitoring, detection engineering and enterprise security. Outside of university, I spend a lot of time building and experimenting with my own **cybersecurity homelab**.
 
 ## Technical Skills
 
-- **Main language:** C# 
-- **Familiar with:** Linux, basic Python
-- **Concepts:** OOP, data structures, algorithms
+**Languages**
+
+* Python
+* C#
+
+**Cybersecurity**
+
+* Linux & Kali Linux
+* Security monitoring & SIEM
+* Threat intelligence
+* Detection engineering
+* Network security
+* Windows security & telemetry
+* Vulnerability management
+* External Attack Surface Management (EASM)
+
+**Tools & Technologies**
+
+* Wazuh
+* Sysmon
+* Git & GitHub
+* Virtual machines
+* Nmap
+* Windows & Linux
+
+**Currently learning**
+
+* Networking
+* AI & machine learning
+* Enterprise security technologies
+* Security automation
+
+## Cybersecurity Homelab
+
+I'm building a small virtualised cybersecurity lab to develop practical security skills.
+
+The environment includes **Windows and Linux systems**, with Kali Linux used for security testing and Wazuh/Sysmon used for monitoring and telemetry.
+
+I'm using the lab to experiment with:
+
+* Network reconnaissance and enumeration
+* Windows event logging and endpoint telemetry
+* SIEM and security monitoring
+* Detection engineering
+* Attack and defence techniques
+* Security automation
+* Analysing and responding to simulated security events
+
+The goal is to turn concepts I learn into practical, hands-on experience.
 
 ## Projects
 
-### FPL Fixer — A Level CS NEA
-A data-driven Fantasy Premier League decision support 
-tool built in C#. 
+### Cybersecurity Homelab
 
-- Scraped real Premier League stats from FBref using 
-  a Python script (SoccerData library)
-- Weighted scoring model configurable per position
-- Merge sort and bubble sort implementations for ranking
-- Hash table for player search
-- Custom linked list for shortlist management  
-- Dynamic programming for automatic squad building 
-  within budget and positional constraints
-- Handles 400+ real players with input validation 
-  and safe data parsing
+A personal virtualised environment for learning offensive and defensive cybersecurity techniques.
 
-`C#` `OOP` `Algorithms` `Data Structures`
+`Python` `Linux` `Kali` `Wazuh` `Sysmon` `Networking` `Windows`
 
-## Background
+### FPL Fixer
 
-- 🏫 A Levels: Computer Science, Politics, Economics
-- 🏅 Silver Duke of Edinburgh
-- 💼 Work experience at ARM (2024)
-- 🏀 Basketball and football when not at my keyboard
+A data-driven Fantasy Premier League decision-support tool originally developed as my A Level Computer Science NEA.
+
+The project uses C# alongside a Python data collection script and implements algorithms and data structures including merge sort, hash tables, linked lists and dynamic programming.
+
+`C#` `Python` `Algorithms` `Data Structures`
+
+## 🎓 Background
+
+* **BSc Computer Science** — Newcastle University
+* **A Levels** — Computer Science, Politics & Economics
+* **Work Experience** — Arm Enterprise Security, 2026
 
 ## Connect
+
 [LinkedIn](https://www.linkedin.com/in/ewan-cadmore-7649b2345/)
